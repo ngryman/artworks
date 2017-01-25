@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="420px" viewBox="0 0 500 420" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>arbre</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0.991654946" width="30" height="47"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-7" y="-7" width="44" height="61">
+            <rect x="-7" y="-6.00834505" width="44" height="61" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+        <polygon id="path-3" points="67.2167425 0.532941069 0.483761622 112.112251 22.9831191 134.163214 45.6132614 111.685977 67.4390768 134.532941 89.2016795 112.118775 111.707576 133.997924 134.483762 112.099201"></polygon>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-6" y="-6" width="146" height="146">
+            <rect x="-5.51623838" y="-5.46705893" width="146" height="146" fill="white"></rect>
+            <use xlink:href="#path-3" fill="black"></use>
+        </mask>
+        <polygon id="path-5" points="44.7452416 0.355124803 0.322127432 74.7197081 15.299602 89.416077 30.364138 74.4356083 44.8932461 89.6624902 59.3802744 74.7240566 74.362102 89.3059159 89.5238567 74.7110112"></polygon>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-6" y="-6" width="101.201729" height="101.307365">
+            <rect x="-5.67787257" y="-5.6448752" width="101.201729" height="101.307365" fill="white"></rect>
+            <use xlink:href="#path-5" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="arbre">
+            <text id="ARBRE" font-family="Bariol-Light, Bariol" font-size="144" font-weight="300" letter-spacing="15" fill="#282828">
+                <tspan x="13" y="387">ARBRE</tspan>
+            </text>
+            <g id="xmas-tree" transform="translate(176.000000, 22.000000)">
+                <g id="Rectangle-1-+-Rectangle-1-Copy" transform="translate(60.000000, 135.008345)">
+                    <g id="Rectangle-1">
+                        <use fill="#D49959" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <use stroke="#282828" mask="url(#mask-2)" stroke-width="14" xlink:href="#path-1"></use>
+                    </g>
+                    <rect id="Rectangle-1-Copy" fill="#BE7E36" x="0" y="1.99165495" width="15" height="46"></rect>
+                </g>
+                <g id="tree-layer" transform="translate(7.500000, 22.460384)">
+                    <g id="Path-1">
+                        <use fill="#33CE86" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <use stroke="#2D2D2D" mask="url(#mask-4)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" xlink:href="#path-3"></use>
+                    </g>
+                    <polyline id="Path-1-Copy-2" fill="#1AC270" points="67.1971042 0.532941069 0.483761622 112.132976 22.9764979 134.188035 45.5999806 111.706623 67.4193731 134.557831 89.1755714 112.139502"></polyline>
+                    <polyline id="Path-1-Copy" fill="#22AC6A" points="67.1971042 0.532941069 0.483761622 112.132976 22.9764979 134.188035 45.5999806 111.706623"></polyline>
+                </g>
+                <g id="tree-layer-copy" transform="translate(30.000000, 0.000000)">
+                    <g id="Path-1">
+                        <use fill="#33CE86" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        <use stroke="#2D2D2D" mask="url(#mask-6)" stroke-width="12" stroke-linejoin="round" xlink:href="#path-5"></use>
+                    </g>
+                    <polyline id="Path-1-Copy-2" fill="#1AC270" points="44.7452416 0.355124803 0.322127432 74.7197081 15.299602 89.416077 30.364138 74.4356083 44.8932461 89.6624902 59.3802744 74.7240566"></polyline>
+                    <polyline id="Path-1-Copy" fill="#22AC6A" points="44.7452416 0.355124803 0.322127432 74.7197081 15.299602 89.416077 30.364138 74.4356083"></polyline>
+                </g>
+                <g id="base" transform="translate(0.000000, 182.426473)" fill="#282828">
+                    <rect id="Rectangle-3" x="0" y="0.573527114" width="150" height="7" rx="3.5"></rect>
+                    <rect id="Rectangle-3-Copy" x="56.25" y="13.5735271" width="37.5" height="5" rx="2.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
