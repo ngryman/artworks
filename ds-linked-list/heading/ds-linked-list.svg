@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="490px" height="284px" viewBox="0 0 490 284" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Linked List</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="99.1356459%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#0074D9" offset="0%"></stop>
+            <stop stop-color="#0074D9" offset="51.6632639%"></stop>
+            <stop stop-color="#FFFFFF" offset="51.7538705%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="120" height="60"></rect>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="120" height="60" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+        <rect id="path-4" x="0" y="0" width="120" height="60"></rect>
+        <mask id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="120" height="60" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
+        <rect id="path-6" x="0" y="0" width="120" height="60"></rect>
+        <mask id="mask-7" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="120" height="60" fill="white">
+            <use xlink:href="#path-6"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Linked-List">
+            <g transform="translate(20.000000, 20.000000)">
+                <g id="Nodes">
+                    <g id="Linked-List-Node" transform="translate(330.000000, 184.000000)">
+                        <g>
+                            <use id="Rectangle" stroke="#0074D9" mask="url(#mask-3)" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                            <text id="T" font-family="FiraCode-Regular, Fira Code" font-size="48" font-weight="normal" fill="#FFFFFF">
+                                <tspan x="16.1" y="46">T</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Linked-List-Node" transform="translate(164.000000, 92.000000)">
+                        <g>
+                            <use id="Rectangle" stroke="#0074D9" mask="url(#mask-5)" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" fill="url(#linearGradient-1)" xlink:href="#path-4"></use>
+                            <text id="T" font-family="FiraCode-Regular, Fira Code" font-size="48" font-weight="normal"></text>
+                        </g>
+                    </g>
+                    <g id="Linked-List-Node">
+                        <g>
+                            <use id="Rectangle" stroke="#0074D9" mask="url(#mask-7)" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" fill="url(#linearGradient-1)" xlink:href="#path-6"></use>
+                            <text id="T" font-family="FiraCode-Regular, Fira Code" font-size="48" font-weight="normal" fill="#FFFFFF">
+                                <tspan x="16.1" y="46">H</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <g id="Links" transform="translate(89.000000, 67.000000)" stroke-width="7" stroke="#0074D9">
+                    <g id="Link" transform="translate(165.000000, 92.000000)">
+                        <polyline id="Line" points="0 0 0 55.5 55.5 55.5"></polyline>
+                        <path id="Line-decoration-1" d="M55.5,55.5 L44.7,52.5 L44.7,58.5 L55.5,55.5 Z"></path>
+                    </g>
+                    <g id="Link">
+                        <polyline id="Line" points="0 0 0 55.5 55.5 55.5"></polyline>
+                        <path id="Line-decoration-1" d="M55.5,55.5 L44.7,52.5 L44.7,58.5 L55.5,55.5 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
